@@ -19,7 +19,7 @@ O sistema utiliza o **Traccar Client** como aplicativo rastreador, instalado nos
 - Traccar Client
 - API Traccar
 - HTML, CSS e JavaScript
-- Banco de Dados (conforme utilizado no projeto)
+- Banco de Dados (SQL)
 
 ## Objetivo
 
